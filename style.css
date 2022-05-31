@@ -41,10 +41,9 @@ body {
 .info-section {
   color: #fff;
 }
-
-/* .hidden { */
-  /* display: none !important; */
-/* } */
+.hidden { 
+ display: none !important; 
+ } 
 
 
 
